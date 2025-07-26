@@ -1,4 +1,4 @@
-<div align="center">
+
 <div style="text-align: center;">
     <h2>ForCenNet: Foreground-Centric Network for Document Image Rectification</h2>
 </div>
