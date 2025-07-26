@@ -27,8 +27,7 @@
 ### ✅ TODO
 - [ ] Release the rectification results on four datasets.
 - [ ] Release a callable Web UI demo.
-
-
+- [ ] Release the evaluation code.
 ## 🎃 Overview
 ![overall_structure](assets/model.png)
 
