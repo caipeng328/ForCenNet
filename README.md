@@ -1,8 +1,8 @@
-
+<div align="center">
 <div style="text-align: center;">
     <h2>ForCenNet: Foreground-Centric Network for Document Image Rectification</h2>
 </div>
-ForCenNet is a foreground-aware document rectification method that removes geometric distortions using foreground cues and achieves state-of-the-art results on four real-world benchmarks.
+
 <div>
     <a href="https://github.com/caipeng328/ForCenNet" target='_blank'>Peng Cai</a>&emsp;
     <a href='https://github.com/caipeng328/ForCenNet' target='_blank'>liqiang</a>&emsp;
@@ -15,11 +15,13 @@ ForCenNet is a foreground-aware document rectification method that removes geome
     <a href='https://github.com/caipeng328/ForCenNet' target='_blank'>Jiankang Deng<sup>†</sup></a>
 </div>
 
+<strong>ForCenNet is a foreground-aware document rectification method that removes geometric distortions using foreground cues and achieves state-of-the-art results on four real-world benchmarks.</strong>
+
 
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="assets/teaser.jpg">
 </div>
-
+</div>
 
 
 ### ✅ TODO
