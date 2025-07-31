@@ -14,6 +14,10 @@
     <a href='https://github.com/caipeng328/ForCenNet' target='_blank'>Ninghua Yang</a>&emsp;
     <a href='https://github.com/caipeng328/ForCenNet' target='_blank'>Jiankang Deng<sup>†</sup></a>
 </div>
+<div>
+    Qihoo Technology, DeepGlint, Imperial College London<br>
+   <p><sup>†</sup>Corresponding author</p>
+</div>
 
 <strong>ForCenNet is a foreground-aware document rectification method that removes geometric distortions using foreground cues and achieves state-of-the-art results on four real-world benchmarks.</strong>
 
